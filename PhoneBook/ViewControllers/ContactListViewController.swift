@@ -44,8 +44,4 @@ class ContactListViewController: UITableViewController {
         contactDetailsVC.contact = contact
         contactDetailsVC.title = contact.fullName
     }
-
-   
-
-
 }

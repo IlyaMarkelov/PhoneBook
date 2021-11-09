@@ -43,6 +43,4 @@ class FullDetailsViewController: UITableViewController {
         cell.contentConfiguration = content
         return cell
     }
-
-
 }

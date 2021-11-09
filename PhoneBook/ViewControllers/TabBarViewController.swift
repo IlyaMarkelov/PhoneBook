@@ -21,5 +21,4 @@ class TabBarViewController: UITabBarController {
          contactList.contactList = contact
          fullDetailsVC.contactList = contact
      }
-
 }
